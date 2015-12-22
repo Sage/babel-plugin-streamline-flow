@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-streamline-flow",
+  "description": "babel plugin for streamline.js and flowtype",
+  "version": "2.0.0",
+  "license": "MIT",
+  "homepage": "http://github.com/Sage/babel-plugin-streamline-flow",
+  "author": {
+    "name": "Bruno Jouhier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sage/babel-plugin-streamline-flow.git"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "babel-core": "^6.3.17"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Sage/babel-plugin-streamline-flow/issues"
+  }
+}
